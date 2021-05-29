@@ -27,3 +27,5 @@ El usuario contara con un historial de las compras que ha realizado y una lista 
 le recordara los productos de la lista que mas tiempo tenga sin ordenar.
 
 El administrador del supermercado podrá agregar y quitar productos del catálogo de acuerdo a las necesidades y surtido.
+
+Pagina de referencia: https://supermercadosnacional.com/
