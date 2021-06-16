@@ -23,7 +23,7 @@
       <img class="d-block w-100" src="img1/Guineo.jpg" alt="Guineo">
       <div class="carousel-caption d-none d-md-block">
     <h5>$4</h5>
-    <p>Antes $20</p>
+    <p>Antes $5</p>
   </div>
     </div>
     <div class="carousel-item">
