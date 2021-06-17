@@ -16,52 +16,52 @@
 <body>
  
    <!-- carrusel inicio --> 
-   <h1>Ofertas</h1>
-   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+   <h1>Ofertas</h1> <!-- Título --> 
+   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel"> <!-- contenedor del carrusel  --> 
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    <div class="carousel-item active"> <!-- activación del carrusel --> 
       <img class="d-block w-100" src="img1/Guineo.jpg" alt="Guineo">
       <div class="carousel-caption d-none d-md-block">
-    <h5>$4</h5>
-    <p>Antes $5</p>
+    <h5>$4</h5> <!-- Precio oferta --> 
+    <p>Antes $5</p> <!-- precio normal --> 
   </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="img1/Platano.jpg" alt="Platano">
       <div class="carousel-caption d-none d-md-block">
-    <h5>$8</h5>
-    <p>Antes $10</p>
+    <h5>$8</h5> <!-- Precio oferta -->
+    <p>Antes $10</p> <!-- precio normal --> 
   </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="img1/Salami.jpg" alt="Salami">
       <div class="carousel-caption d-none d-md-block">
-    <h5>$250</h5>
-    <p>Antes $300</p>
+    <h5>$250</h5> <!-- Precio oferta -->
+    <p>Antes $300</p> <!-- precio normal --> 
   </div>
     </div>
   <div class="carousel-item">
       <img class="d-block w-100" src="img1/Yuca.jpg" alt="Yuca">
       <div class="carousel-caption d-none d-md-block">
-    <h5>Libra $20</h5>
-    <p>Antes $25</p>
+    <h5>Libra $20</h5> <!-- Precio oferta -->
+    <p>Antes $25</p> <!-- precio normal --> 
   </div>
     </div>
   <div class="carousel-item">
       <img class="d-block w-100" src="img1/Aceite.jpg" alt="Aceite">
       <div class="carousel-caption d-none d-md-block">
-    <h5>$200</h5>
-    <p>Antes $225</p>
+    <h5>$200</h5> <!-- Precio oferta -->
+    <p>Antes $225</p> <!-- precio normal --> 
   </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
+    <span class="sr-only">Previous</span> <!-- botón de anterior imagen --> 
   </a>
   <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
+    <span class="sr-only">Next</span> <!-- botón de siguiente imagen --> 
   </a>
 </div>
    <!-- carrusel fin -->
