@@ -1,0 +1,33 @@
+.carousel-control-next, .carousel-control-prev{
+    max-width: 50px;
+    background-color: #21252924; /* Estilos de los botones anterior y siguiente imagen*/
+    margin-right: 15%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.w-100{
+    max-width: 350px;  /* Esstilos de la imagen */
+    margin-left: 32%;
+}
+
+.h1, h1{
+    color: #ff8307fb; /* Estilos del título*/
+    margin-left: 39%;
+}
+
+
+.h1, .h5, h1, h5{
+    font-weight: 0; /* Estilos de la fuente de letras (mientras mas tamaño, menos grosor tendrá la letra)*/
+}
+
+.h5, h5 {
+    color: red; 
+    margin-left: 18pc; /*Estilo precio descuento*/
+}
+
+.antes {
+    margin-left: 18pc; /* Estilo precio normal */
+    color: black;
+    margin-bottom: 60px;
+}
